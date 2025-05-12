@@ -1,0 +1,20 @@
+# Flutter/Dart related
+.build/
+.dart_tool/
+.packages
+.pub/
+*.lock
+ios/Flutter/Flutter.framework
+android/app/debug.keystore
+
+# Android
+**/android/local.properties
+**/android/key.properties
+**/android/app/google-services.json
+
+# iOS
+**/ios/Runner/GoogleService-Info.plist
+
+# IDE settings
+.idea/
+.vscode/
